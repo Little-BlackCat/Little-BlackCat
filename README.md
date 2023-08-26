@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif" width="600" />
-</div>
-
 ---
 
 ### :man_technologist: About Me :
