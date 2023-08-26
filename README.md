@@ -91,15 +91,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=little-blackcat&layout=compact&theme=vision-friendly-dark" />
 </div>
 
-<img
-  src="https://github.com/liitle-blackcat/little-blackcat/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
