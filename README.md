@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
----
-
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 - I'm a junior developer who has recently graduated from a coding boot camp, eager to contribute and learn in the world of web development. I'm excited to apply my newfound skills to real-world projects. While I may not have a formal degree, my dedication, enthusiasm, and determination to excel make me motivated and ready to tackle challenges and grow.
